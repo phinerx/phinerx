@@ -7,6 +7,7 @@
 <br clear="both">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2590&pause=1000&color=F73511&center=true&vCenter=true&random=false&width=435&lines=Hi+this+is+Jiku;I+am+a+story;You+lost+me+%3F;I+have+no+trust+on+You)](https://git.io/typing-svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=natterstefan&color=FAC151)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=phinerx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
