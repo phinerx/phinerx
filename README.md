@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://jiku.dev"><img src="https://img.shields.io/badge/Portfolio-jiku.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://bd.linkedin.com/in/md-jakaria-fiad-9ab5062a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/></a>
+    <a href="https://bd.linkedin.com/9ab5062a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/></a>
     <a href="mailto:phinerx749@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0A0A0A?style=for-the-badge&logo=minutemailer&logoColor=2563EB" alt="Email"/></a>
   </p>
 </div>
